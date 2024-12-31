@@ -24,7 +24,7 @@ the image that is in the background of the website
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(HTML-Projects/images/background2.png);
+    background-image: URL(../images/background2.png);
     background-size: cover;
     background-position: center;
 
