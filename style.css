@@ -48,7 +48,7 @@ the specific dimensions that the logo in this case
 the red k in kevin 
 */
 .logo{
-    width: 220px;
+    width: 200px;
     height: auto;
     margin: 10px; 
 }
@@ -96,7 +96,7 @@ nav ul li a:hover::after{
 }
 
 .header-text h1 span{
-    color: #ff004f;
+    color: #ff0000;
 }
 
 #about{
@@ -145,7 +145,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #ff0000;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -163,7 +163,7 @@ nav ul li a:hover::after{
 }
 
 .tab-contents ul li span{
-    color: #ff004f;
+    color: #ff0000;
     font-size: 14px;
 }
 
@@ -217,7 +217,7 @@ nav ul li a:hover::after{
 }
 
 .projects-list div:hover {
-    background-color: #ff004f; /* Darker background on hover */
+    background-color: #ff0000; /* Darker background on hover */
     transform: translate(-10px); /* Hover text color */
 }
 
@@ -236,7 +236,7 @@ nav ul li a:hover::after{
 }
 
 .contact-left p i{
-    color: #ff004f;
+    color: #ff0000;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -256,13 +256,13 @@ nav ul li a:hover::after{
 }
 
 .social-icons a:hover{
-    color: #ff004f;
+    color: #ff0000;
     transform: translateY(-5px);
 }
 
 .btn.btn2{
     display: inline-block;
-    background: #ff004f;
+    background: #ff0000;
     border-radius: 5px;
     text-decoration: none;
     color: #fff;
@@ -312,7 +312,7 @@ nav .fa-solid{
         font-size: 25px;
     }
     nav ul{
-        background: #ff004f;
+        background: #ff0000;
         position: fixed;
         top: 0;
         right: -200px;
